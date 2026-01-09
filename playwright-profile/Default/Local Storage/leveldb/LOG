@@ -1,0 +1,21 @@
+2026/01/09-16:51:37.846 2d04 Reusing MANIFEST C:\Users\varsha\Futurx_auto\playwright-profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/09-16:51:37.854 2d04 Recovering log #34
+2026/01/09-16:51:37.855 2d04 Level-0 table #37: started
+2026/01/09-16:51:37.866 2d04 Level-0 table #37: 33044 bytes OK
+2026/01/09-16:51:37.866 2d04 Recovering log #37
+2026/01/09-16:51:37.868 2d04 Level-0 table #38: started
+2026/01/09-16:51:37.876 2d04 Level-0 table #38: 78214 bytes OK
+2026/01/09-16:51:37.885 2d04 Delete type=0 #34
+2026/01/09-16:51:37.885 2d04 Delete type=0 #37
+2026/01/09-16:51:37.888 4438 Compacting 5@0 + 1@1 files
+2026/01/09-16:51:37.902 4438 Generated table #40@0: 18 keys, 83009 bytes
+2026/01/09-16:51:37.902 4438 Compacted 5@0 + 1@1 files => 83009 bytes
+2026/01/09-16:51:37.909 4438 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/09-16:51:37.927 4438 Delete type=2 #29
+2026/01/09-16:51:37.931 4438 Delete type=2 #31
+2026/01/09-16:51:37.931 4438 Delete type=2 #32
+2026/01/09-16:51:37.933 4438 Delete type=2 #35
+2026/01/09-16:51:37.933 4438 Delete type=2 #37
+2026/01/09-16:51:37.933 4438 Delete type=2 #38
+2026/01/09-16:52:12.422 4438 Level-0 table #42: started
+2026/01/09-16:52:12.442 4438 Level-0 table #42: 45312 bytes OK
