@@ -16,7 +16,7 @@ It automates key navigations in the **FuturX application** with a stable, reusab
 📁 Project Structure
 
 
-futurx-playwright-automation/
+```futurx-playwright-automation/
 │
 ├── pages/                 # Page Object Model (POM)
 │   ├── base_page.py       # Common reusable methods & waits
@@ -35,7 +35,7 @@ futurx-playwright-automation/
 ├── requirements.txt       # Project dependencies
 ├── .gitignore             # Ignored files (auth, cache, profiles)
 └── README.md              # Project documentation
-
+```
 🧰 Tools & Technologies Used
 
 | Tool                        | Purpose                    |
